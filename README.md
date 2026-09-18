@@ -30,7 +30,7 @@ Abaixo estão os relatórios detalhados dos cenários e simulações que montei:
 * 🛡️ **[Projeto 3: Criando Regras de Filtro de Tráfego com ACL](./projeto-3-defesa-rede.md)**  
   *Criação de regras no roteador para proteger a zona de servidores corporativos e liberar apenas serviços específicos.*
 
-- [Projeto 4: Configuração de Servidor DHCP no Roteador](projeto-4-servidor-dhcp.md)
+* ⚡ **[Projeto 4: Configuração de Servidor DHCP no Roteador](./projeto-4-servidor-dhcp.md)**  
   *Automação do endereçamento IP na rede local via CLI, distribuindo Gateway e DNS de forma centralizada e dinâmica.*
   
 ---
