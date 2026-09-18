@@ -41,6 +41,3 @@ Abaixo estão os relatórios detalhados dos cenários e simulações que montei:
 ---
 
 📬 **Contato:** lisantosconstantino@gmail.com
----
-
-📬 **Contato:** lisantosconstantino@gmail.com
