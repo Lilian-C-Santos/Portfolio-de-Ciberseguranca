@@ -32,7 +32,10 @@ Abaixo estão os relatórios detalhados dos cenários e simulações que montei:
 
 * ⚡ **[Projeto 4: Configuração de Servidor DHCP no Roteador](./projeto-4-servidor-dhcp.md)**  
   *Automação do endereçamento IP na rede local via CLI, distribuindo Gateway e DNS de forma centralizada e dinâmica.*
-  
+
+  * 🌐 **[Projeto 5: Configuração de Serviços de Aplicação (HTTP/DNS) e Análise de Camadas](./projeto-5-servicos-aplicacao.md)**  
+  *Implementação de servidores Web e DNS em ambiente simulado, com validação de resolução de nomes e inspeção de PDUs nas Camadas 4 e 7.*
+
 ---
 
 ## Áreas de Conhecimento em Estudo
