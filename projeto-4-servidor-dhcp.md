@@ -57,7 +57,8 @@ Router# copy running-config startup-config
 ## 5. Validação dos Testes e Troubleshooting
 
 ### Validação do Recebimento de IP via DHCP no Cliente (PC0)
-<img width="527" height="188" alt="image" src="https://github.com/user-attachments/assets/1cb8f080-affe-4fcc-946d-04880d5c03ab" />
+<img width="837" height="250" alt="image" src="https://github.com/user-attachments/assets/d8e22d75-5225-46ac-b682-918447a4fa08" />
+
 
 Para validar se o serviço DHCP está entregando as configurações corretamente aos clientes, foram executados os seguintes passos de verificação:
 
